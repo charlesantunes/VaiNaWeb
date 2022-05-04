@@ -1,0 +1,27 @@
+.caixa2{
+    margin-top: 10px;
+    border: 2px solid gray;
+    position: relative;
+}
+
+button{
+    position: absolute;
+    top: 25px;
+    z-index: 1;
+}
+
+h2{
+    position: absolute;
+    color: purple;
+    z-index: 9;
+}
+
+h3{
+    background: blue;
+    width: 150px;
+    color: white;
+    padding: 10px;
+    position: fixed;
+    bottom: -20px;
+    right: 10px;
+}

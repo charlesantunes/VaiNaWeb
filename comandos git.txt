@@ -1,0 +1,23 @@
+whoami => Tras nome do usuario
+
+pwd => mostra o caminho que estou 
+
+ls => lista os arquivos do diretorio 
+
+cd => serve para entrar em uma pasta
+
+cd .. => pra voltar a pasta 
+
+clear => limpa a tela 
+
+mkdir => cria pasta 
+
+touch => cria arquivo
+
+rm => deleta o arquivo criado 
+
+rm -r => exclui a pasta criada 
+
+code . => abre o vs code 
+
+exit => sai do progama
