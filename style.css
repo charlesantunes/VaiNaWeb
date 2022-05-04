@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(204, 204, 250);
+}
+
+.caixa{
+    text-align: center;
+}
+
+.corpo{
+    background: rgb(142, 142, 1);
+    width: 500px;
+    height: 400px;
+    position: relative;
+    left: 430px;
+    top: 100px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.olho-esquerdo{
+    background: white;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    position: absolute;
+    top: 30px;
+    left: 40px;
+    border: 2px solid black;
+}
+
+.olho-direito{
+    position: absolute;
+    right: 40px;
+    top: 30px;
+    background: white;
+    border: 2px solid black;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+
+.pupila{
+    background-color: black;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    position: relative;
+    top: 50px;
+}
+
+form{
+    position: absolute;
+    bottom: 100px;
+    left: 200px;
+}
+
+select{
+    padding: 20px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+}
