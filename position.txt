@@ -1,0 +1,5 @@
+POSITION
+Position: static   => é o padrão que já vem, propriedades de top, left, bottom e right não funcionaram.
+Position: fixed   => faz o elemento ficar fixo na página, posiciona em relação a viewport, sado em menu e chat.
+Position: sticky  => fica fixo após a barra de rolagem ou até chegar na propriedade(top, left, bottom e right) definida. Position: relative  => é a posição pai na hierarquia, logo o position absolute se posicionar em ralação ao relative 
+Position: absolute  => é a posição filho se houver um pai, no caso se houver um relative, o absolute será movimentado em relação ao relative.
